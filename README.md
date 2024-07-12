@@ -1,7 +1,7 @@
 
 # OWASP Web Testing Guide
 
-This Python script allows you to interactively explore and execute various test cases from the OWASP Testing Guide. You can select categories, view specific test cases, and see detailed instructions for each test case.
+This Python script allows you to interactively explore various test cases from the OWASP Testing Guide. You can select categories, view specific test cases, and see detailed instructions for each test case.
 
 ## Features
 
@@ -20,7 +20,7 @@ This Python script allows you to interactively explore and execute various test 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/owasp-web-testing-guide.git
+    git clone https://github.com/Sic4rio/owasp-web-testing-guide.git
     cd owasp-web-testing-guide
     ```
 
@@ -35,25 +35,6 @@ Run the script using Python:
 ```sh
 python owasp.py
 ```
-
-## Script Overview
-
-### Main Functions
-
-- **print_banner()**: Prints the banner at the start of the script.
-- **print_categories()**: Prints available test categories.
-- **print_test_cases(category)**: Prints available test cases within a selected category.
-- **print_all_instructions(category)**: Prints all test cases and their instructions within a selected category.
-- **print_instructions(test_case)**: Prints instructions for a selected test case.
-- **main()**: Main function to run the interactive menu.
-
-### How It Works
-
-1. **Banner**: Displays a welcome banner.
-2. **Categories**: Lists all available test categories.
-3. **Category Selection**: Prompts the user to select a category.
-4. **Test Case Selection**: Prompts the user to select a test case or print all test cases with instructions.
-5. **Instructions**: Displays detailed instructions for the selected test case or all test cases within the category.
 
 ## Example Output
 
@@ -89,8 +70,9 @@ Instructions for 'OTG-INFO-002: Fingerprint Web Server':
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
+Do what you like tothis script. Feel free to submit a pull request or open an issue if you have any suggestions or improvements.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+All rights go to my dog.
+
