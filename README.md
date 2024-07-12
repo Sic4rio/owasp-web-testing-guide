@@ -20,7 +20,7 @@ This Python script allows you to interactively explore various test cases from t
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Sic4rio/owasp-web-testing-guide.git
+    git clone https://github.com/Sic4rio/owasp-web-testing-guide
     cd owasp-web-testing-guide
     ```
 
